@@ -1,0 +1,17 @@
+# Raw PVDAQ downloads
+/data/raw/*
+!/data/raw/.gitkeep
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Local virtual environments
+.venv/
+venv/
+
+# Local environment variables
+.env
